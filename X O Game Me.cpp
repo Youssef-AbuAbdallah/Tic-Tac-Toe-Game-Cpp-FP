@@ -402,7 +402,7 @@ void YoussefElsaid()
 	cout << "\n\n\n";
 	cout << "\t\t------------------------------------------------------------------------------------\n\n";
 	cout << "\t\t\t"<< "Thanks ,  I hope you enjoy playing.\n\n";
-	cout << "\t\t\t" << "Created by Youssef Elsaid Mohamed Abo-AbdAllah .\n\n";
+	cout << "\t\t\t" << "Created by Youssef Elsaid Mohamed Abu-AbdAllah .\n\n";
 	cout << "\t\t------------------------------------------------------------------------------------";
 
 	system("pause>0");
